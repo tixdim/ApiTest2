@@ -27,6 +27,7 @@ namespace ApiTest2
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<NoteContext>(opt => opt.UseInMemoryDatabase("TestDb"));
+            services.AddDbContext<UserContext>(opt => opt.UseInMemoryDatabase("TestDb"));
             services.AddControllers();
         }
 

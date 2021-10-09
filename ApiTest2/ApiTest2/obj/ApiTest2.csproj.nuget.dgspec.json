@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Помянем\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {}
   },
   "projects": {
-    "D:\\Помянем\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Помянем\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
         "projectName": "ApiTest2",
-        "projectPath": "D:\\Помянем\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "D:\\Помянем\\ApiTest2\\ApiTest2\\ApiTest2\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
@@ -48,17 +50,17 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.18, )"
+              "version": "[3.1.19, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[3.1.18, )"
+              "version": "[3.1.19, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.10, )"
+              "version": "[3.1.19, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -83,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
