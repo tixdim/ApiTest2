@@ -292,13 +292,13 @@ C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\bin\Debug\netcor
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.AssemblyInfo.cs
-C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.csproj.CoreCompileInputs.cache
-C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\staticwebassets\ApiTest2.StaticWebAssets.Manifest.cache
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\staticwebassets\ApiTest2.StaticWebAssets.xml
-C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiTest2.styles.css
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.RazorTargetAssemblyInfo.cache
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.csproj.CopyComplete
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.dll
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.pdb
 C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.genruntimeconfig.cache
+C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\ApiTest2\ApiTest2\ApiTest2\obj\Debug\netcoreapp3.1\ApiTest2.MvcApplicationPartsAssemblyInfo.cache

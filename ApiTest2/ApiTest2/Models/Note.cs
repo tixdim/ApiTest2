@@ -13,5 +13,6 @@ namespace ApiTest2.Models
         public string Body { get; set; }
         public DateTime CreateDate { get; set; }
         public DateTime? ChangeDate { get; set; }
+        public bool IsDeleted { get; set; }
     }
 }

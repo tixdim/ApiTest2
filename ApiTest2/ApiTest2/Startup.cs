@@ -26,6 +26,7 @@ namespace ApiTest2
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
             services.AddDbContext<NoteContext>(opt => opt.UseInMemoryDatabase("TestDb"));
             services.AddDbContext<UserContext>(opt => opt.UseInMemoryDatabase("TestDb"));
             services.AddControllers();
@@ -38,6 +39,8 @@ namespace ApiTest2
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(options => options.WithOrigins("http://localhost:8080").AllowAnyMethod().AllowAnyHeader());
 
             app.UseRouting();
 
