@@ -53,6 +53,7 @@ namespace ApiTest2.Controllers
                 return BadRequest();
             }
 
+            note.CreateTime = DateTime.Now;
             _context.Entry(note).State = EntityState.Modified;
 
             try
@@ -80,6 +81,7 @@ namespace ApiTest2.Controllers
         [HttpPost]
         public async Task<ActionResult<Note>> PostNote(Note note)
         {
+            note.CreateTime = DateTime.Now;
             _context.Notes.Add(note);
             await _context.SaveChangesAsync();
 

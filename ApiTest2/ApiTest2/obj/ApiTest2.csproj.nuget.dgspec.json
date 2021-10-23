@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {}
+    "C:\\Users\\StudentDev\\Documents\\Github\\Tixdim\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {
+    "C:\\Users\\StudentDev\\Documents\\Github\\Tixdim\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
+        "projectUniqueName": "C:\\Users\\StudentDev\\Documents\\Github\\Tixdim\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
         "projectName": "ApiTest2",
-        "projectPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
+        "projectPath": "C:\\Users\\StudentDev\\Documents\\Github\\Tixdim\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
         "packagesPath": "C:\\Users\\StudentDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\obj\\",
+        "outputPath": "C:\\Users\\StudentDev\\Documents\\Github\\Tixdim\\ApiTest2\\ApiTest2\\ApiTest2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QcLoDm9dTe7trQvhitvMZuS05DG3J3/XZ2JEzSFKCcjocViYcSPEdoV5zhXG9yOE88tS8JLy1Rda1dUyoZRxaQ==",
+  "dgSpecHash": "Uk/vccQxm1/Ncl6qInqfymA85VeD04c2RiA5p0HeaQ0pVrWkwmZ4balVY7iFYs6wDM0xf2N46NpAHUL/uuEtAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\Github\\Tixdim\\ApiTest2\\ApiTest2\\ApiTest2\\ApiTest2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\StudentDev\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
